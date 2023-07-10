@@ -11,7 +11,7 @@ based on [CleanBlog](https://github.com/statiqdev/CleanBlog).
 
 <hr class="dark" />
  <div class="text-center">
-    <a href="https://forums.lotro.com/forums/member.php?880667-agodeshalf" target="_blank"><i class="fa fa-ring fa-2x" aria-hidden="true"></i></a>
+    <a href="https://forums.lotro.com/index.php?members/melyriel.406" target="_blank"><i class="fa fa-ring fa-2x" aria-hidden="true"></i></a>
     <a href="https://github.com/nullforce" target="_blank"><i class="fab fa-github fa-2x" aria-hidden="true"></i></a>
     <a href="https://pony.social/@nullforce" target="_blank"><i class="fab fa-mastodon fa-2x" aria-hidden="true"></i></a>
     <a href="https://twitch.tv/nullforce" target="_blank"><i class="fab fa-twitch fa-2x" aria-hidden="true"></i></a>
