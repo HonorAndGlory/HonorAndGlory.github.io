@@ -14,6 +14,7 @@ NavbarTitle: Characters
 - Morri - Dwarf Champion
 - Tarelion - Elf Hunter
 - Tareyn - Woman Minstrel
+- Katibearlin - Beorning
 
 ## Crickhollow
 

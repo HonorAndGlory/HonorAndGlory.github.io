@@ -5,7 +5,6 @@ root = true
 
 # Unix-style newlines with a newline ending every file
 [*]
-end_of_line = lf
 insert_final_newline = true
 
 [*.{html,scss}]
@@ -13,5 +12,6 @@ indent_style = space
 indent_size = 2
 
 [*.{yml,yaml}]
+end_of_line = lf
 indent_style = space
 indent_size = 2

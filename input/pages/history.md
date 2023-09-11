@@ -32,11 +32,12 @@ NavbarTitle: History
 ### Current
 
 - Mr Gollum's Neighborhood
+- The Ancients
 
 ### Past
 
-- Narsil's Edge
-- Heroes of the Last Alliance
-- Defenders of ???
-- Honor and Glory
-- O
+- Narsil's Edge (Windfola)
+- Heroes of the Last Alliance (Windfola, co-founder)
+- Defenders of ??? (Windfola) - Deorwyn's kinship
+- Honor and Glory (Windfola, officer)
+- O (Windfola)
