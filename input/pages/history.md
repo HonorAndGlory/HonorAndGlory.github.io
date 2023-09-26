@@ -20,7 +20,8 @@ NavbarTitle: History
 
 ### Current
 
-- Arkenstone
+- Arkenstone (main)
+- Gladden
 
 ### Past
 
@@ -33,6 +34,7 @@ NavbarTitle: History
 
 - Mr Gollum's Neighborhood
 - The Ancients
+- The Cutie Pox
 
 ### Past
 
@@ -40,4 +42,6 @@ NavbarTitle: History
 - Heroes of the Last Alliance (Windfola, co-founder)
 - Defenders of ??? (Windfola) - Deorwyn's kinship
 - Honor and Glory (Windfola, officer)
+- Guardians of the Vault (Windfola)
 - O (Windfola)
+- House of Batiatus (Windfola)
