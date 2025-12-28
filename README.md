@@ -8,7 +8,7 @@ repository at `HonorAndGlory/honorandglory.github.io`.
 
 ## Made With
 
-- .NET 6.0
+- .NET 10.0
 - [Statiq](https://www.statiq.dev/)
 - [CleanBlog Theme](https://github.com/statiqdev/CleanBlog)
 

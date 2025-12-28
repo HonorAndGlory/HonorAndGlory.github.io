@@ -1,6 +1,6 @@
 SiteTitle: Honor and Glory
 SiteDescription: A Lord of the Rings Online Blog
-Copyright: Copyright © 2022 nullforce. All rights reserved.
+Copyright: Copyright © 2022-2025 nullforce. All rights reserved.
 
 GenerateSearchIndex: true
 LinksUseHttps: true
@@ -8,4 +8,4 @@ Image: ./images/site-image.png
 
 GitHubOwner: HonorAndGlory
 GitHubName: honorandglory.github.io
-GitHubToken: "=> Config.FromSetting<string>(\"GITHUB_TOKEN\")"
+GitHubToken: '=> Config.FromSetting<string>("GITHUB_TOKEN")'

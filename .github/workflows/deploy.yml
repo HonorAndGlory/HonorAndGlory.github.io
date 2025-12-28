@@ -2,7 +2,7 @@ name: Deploy Site
 on:
   push:
     branches:
-    - main
+      - main
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -21,18 +21,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/setup-dotnet@v3
-      with:
-        dotnet-version: '6.0.101'
-    - uses: actions/checkout@main
-      with:
-        submodules: recursive
-    - name: Build static site
-      run: dotnet run
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v1
-      with:
-        path: ./output
+      - uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: "10.x"
+      - uses: actions/checkout@main
+        with:
+          submodules: recursive
+      - name: Build static site
+        run: dotnet run
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./output
 
   deploy:
     runs-on: ubuntu-latest
@@ -43,4 +43,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4

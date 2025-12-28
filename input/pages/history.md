@@ -15,25 +15,26 @@ NavbarTitle: History
 - Played a little on the Legendary server Anor, with a new Loremaster named Melyriel. :D
 - Anor shutdown in August 2022.
 - Transferred new Anor Melyriel to Arkenstone and it gave me the name as the existing one was inactive for over a year. I deleted Anor Melyriel and was able to rename Melyriel-2 to her proper name. Yay!
+- Moved to Glamdring. The 64-bit migration came for us all and Arkenstone was shutdown.
 
 ## Servers
 
 ### Current
 
-- Arkenstone (main)
+- Glamdring (main)
 - Gladden
 
 ### Past
 
 - Windfola
-
+- Arkenstone
 
 ## Kinships
 
 ### Current
 
-- Mr Gollum's Neighborhood
-- The Ancients
+- The Shadow
+- Honor and Glory
 - The Cutie Pox
 
 ### Past
@@ -42,6 +43,8 @@ NavbarTitle: History
 - Heroes of the Last Alliance (Windfola, co-founder)
 - Defenders of ??? (Windfola) - Deorwyn's kinship
 - Honor and Glory (Windfola, officer)
+- Mr Gollum's Neighborhood (Sutrebor's kinship0)
 - Guardians of the Vault (Windfola)
 - O (Windfola)
 - House of Batiatus (Windfola)
+- The Ancients (Arkenstone)

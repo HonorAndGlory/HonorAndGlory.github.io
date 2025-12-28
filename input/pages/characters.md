@@ -3,7 +3,7 @@ NavbarTitle: Characters
 ---
 # My Characters
 
-## Arkenstone (main)
+## Glamdring (main)
 
 - Arwrien - Elf Rune-keeper
 - Beothred - Man Guardian
