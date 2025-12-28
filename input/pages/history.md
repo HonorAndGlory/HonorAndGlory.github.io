@@ -47,4 +47,4 @@ NavbarTitle: History
 - Guardians of the Vault (Windfola)
 - O (Windfola)
 - House of Batiatus (Windfola)
-- The Ancients (Arkenstone)
+- The Ancients (Arkenstone, officer)
